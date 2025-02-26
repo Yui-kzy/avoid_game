@@ -4,7 +4,6 @@ import random
 import time
 import math
 import webbrowser
-# 初始化 Pygame
 pygame.init()
 time0 = time.time()
 sobj_x=400
